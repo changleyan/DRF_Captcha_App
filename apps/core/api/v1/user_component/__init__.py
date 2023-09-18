@@ -1,0 +1,1 @@
+from apps.core.api.v1.user_component.UserViewSet import UserViewSet
